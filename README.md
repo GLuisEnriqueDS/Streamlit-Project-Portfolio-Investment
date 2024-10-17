@@ -15,5 +15,6 @@ This app is designed for analyzing and optimizing investment portfolios using hi
 - Apply moving average methods to fill missing values.
 - Perform portfolio optimization to find the best asset allocation based on risk and return.
 - Visualize key metrics, including cumulative returns and the Efficient Frontier.
-- For more details and to try out the app, visit the live demo[https://app-project-portfolio-investment-egbhay73snkmhxvzyrpdls.streamlit.app/]
+- For more details and to try out the app, visit the [live demo](https://app-project-portfolio-investment-egbhay73snkmhxvzyrpdls.streamlit.app/).
+
 
